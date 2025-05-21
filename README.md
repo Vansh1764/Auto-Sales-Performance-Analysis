@@ -14,15 +14,15 @@ The **Auto Sales Performance Analysis Dashboard** is a dynamic Power BI report b
 
 ## 📸 Dashboard Preview
 
-# Page 1: Overall Sales Insights
+### Page 1: Overall Sales Insights
 <img width="503" alt="image" src="https://github.com/user-attachments/assets/9988f2b9-4d83-42a2-8da1-f0ac2dd8aada" />
 
 
-# Page 2: Sales Breakdown  by Deal Size   
+### Page 2: Sales Breakdown  by Deal Size   
 <img width="532" alt="image" src="https://github.com/user-attachments/assets/f4c11088-fcbc-4b5a-a61c-3b5e2e5ccbb4" />
 
 
-# Page 3: Summary
+### Page 3: Summary
 <img width="654" alt="image" src="https://github.com/user-attachments/assets/d969a8e7-7489-43b2-8b34-d430f467c687" />
 
 
